@@ -13,5 +13,5 @@ test.csv
 ## usage
 ```
 !bash hw1.sh test.csv ans.csv
-!bash hw1_best.csv and.csv
+!bash hw1_best.sh test.csv and.csv
 ```
